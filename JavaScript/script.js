@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     $('ul').on('click', 'li', function(){
-        $(this).css('text-decoration', 'line-through');
+        $(this).toggleClass('linha');
     });
 
 

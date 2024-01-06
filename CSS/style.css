@@ -38,3 +38,7 @@ ul li{
     cursor: pointer;
     
 }
+
+.linha{
+    text-decoration: line-through;
+}
